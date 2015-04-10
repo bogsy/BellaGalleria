@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BellaGalleria", "BellaGalleria\BellaGalleria.csproj", "{81D014D0-915A-482C-80E8-82EC4672B008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BellaGalleria.Data", "BellaGalleria.Data\BellaGalleria.Data.csproj", "{D5A46D4C-9A03-4BB8-83A2-CEF81F8EDC92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BellaGalleria.Service", "BellaGalleria.Service\BellaGalleria.Service.csproj", "{30146F0D-74BD-44D6-88D7-082A527E22D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BellaGalleria.Core", "BellaGalleria.Core\BellaGalleria.Core.csproj", "{5B2D54F9-209E-43FA-B4FC-B08CA6E39857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BellaGalleria.Model", "BellaGalleria.Model\BellaGalleria.Model.csproj", "{DC46F522-B1EE-4ADB-9064-ACD25BDF7749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{1865CF0A-D604-45B8-9E20-74B79F470826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81D014D0-915A-482C-80E8-82EC4672B008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D014D0-915A-482C-80E8-82EC4672B008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D014D0-915A-482C-80E8-82EC4672B008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D014D0-915A-482C-80E8-82EC4672B008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A46D4C-9A03-4BB8-83A2-CEF81F8EDC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A46D4C-9A03-4BB8-83A2-CEF81F8EDC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A46D4C-9A03-4BB8-83A2-CEF81F8EDC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A46D4C-9A03-4BB8-83A2-CEF81F8EDC92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30146F0D-74BD-44D6-88D7-082A527E22D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30146F0D-74BD-44D6-88D7-082A527E22D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30146F0D-74BD-44D6-88D7-082A527E22D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30146F0D-74BD-44D6-88D7-082A527E22D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2D54F9-209E-43FA-B4FC-B08CA6E39857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2D54F9-209E-43FA-B4FC-B08CA6E39857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2D54F9-209E-43FA-B4FC-B08CA6E39857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2D54F9-209E-43FA-B4FC-B08CA6E39857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC46F522-B1EE-4ADB-9064-ACD25BDF7749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC46F522-B1EE-4ADB-9064-ACD25BDF7749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC46F522-B1EE-4ADB-9064-ACD25BDF7749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC46F522-B1EE-4ADB-9064-ACD25BDF7749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1865CF0A-D604-45B8-9E20-74B79F470826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1865CF0A-D604-45B8-9E20-74B79F470826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1865CF0A-D604-45B8-9E20-74B79F470826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1865CF0A-D604-45B8-9E20-74B79F470826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
